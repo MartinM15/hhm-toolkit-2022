@@ -4,7 +4,7 @@ const settings = {
     "frontity": {
       "url": "http://toolkit.hispanicstargoodbox.com",
       "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "description": "WordPress installation for Frontity developments"
     }
   },
   "packages": [
